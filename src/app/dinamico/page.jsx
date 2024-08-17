@@ -5,7 +5,6 @@ export default function Dinamico() {
   return (
     <s.body>
       <Header />
-      
     </s.body>
   );
 }
